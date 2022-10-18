@@ -42,6 +42,8 @@
 * **延伸作業**
  * 新增message
  ![IMAGE](https://github.com/GemaLuo/week-5/blob/main/%E5%BB%B6%E4%BC%B8%E4%BD%9C%E6%A5%AD/%E6%96%B0%E5%A2%9Emessage.png)
+ ![IMAGE]()
+ ![IMAGE](https://github.com/GemaLuo/week-5/blob/main/%E5%BB%B6%E4%BC%B8%E4%BD%9C%E6%A5%AD/%E6%8C%89%E8%AE%9A.png)
  
 
  
