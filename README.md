@@ -1,5 +1,5 @@
 # week-5
-* 要求三
+* <h3>要求三</h3>
   * 1.使⽤ INSERT 指令新增⼀筆資料到 member 資料表中，這筆資料的 username 和 password 欄位必須是 test。接著繼續新增⾄少 4 筆隨意的資料。
   ![IMAGE](https://github.com/GemaLuo/week-5/blob/main/%E8%A6%81%E6%B1%82%E4%B8%89-1.png)
   * 2.使⽤ SELECT 指令取得所有在 member 資料表中的會員資料。
@@ -19,7 +19,7 @@
   \***新增follower_count\***
   ![IMAGE](https://github.com/GemaLuo/week-5/blob/main/%E8%A6%81%E6%B1%82%E5%9B%9B-%E6%96%B0%E5%A2%9E%E8%BF%BD%E8%B9%A4%E6%95%B8.png)
 ***
-* 要求四
+* <h3>要求四</h3>
   * 1.取得 member 資料表中，總共有幾筆資料 ( 幾位會員 )。
   ![IMAGE](https://github.com/GemaLuo/week-5/blob/main/%E8%A6%81%E6%B1%82%E5%9B%9B-1.png)
   * 2.取得 member 資料表中，所有會員 follower_count 欄位的總和。
@@ -28,8 +28,15 @@
   ![IMAGE](https://github.com/GemaLuo/week-5/blob/main/%E8%A6%81%E6%B1%82%E5%9B%9B-3.png)
   
 ***
-* 要求五
+* <h3>要求五</h3>
   * 1.使⽤ SELECT 搭配 JOIN 語法，取得所有留⾔，結果須包含留⾔者會員的姓名。
   ![IMAGE](https://github.com/GemaLuo/week-5/blob/main/%E8%A6%81%E6%B1%82%E4%BA%94-1.png)
+ 
+  * 2.使⽤ SELECT 搭配 JOIN 語法，取得 member 資料表中欄位 username 是 test 的所有留⾔，資料中須包含留⾔者會員的姓名。
+  ![IMAGE](https://github.com/GemaLuo/week-5/blob/main/%E8%A6%81%E6%B1%82%E4%BA%94-2.png)
+  
+  * 3.使⽤ SELECT、SQL Aggregate Functions 搭配 JOIN 語法，取得 member 資料表中欄位 username 是 test 的所有留⾔平均按讚數。
+  ![IMAGE]()
+
  
   
