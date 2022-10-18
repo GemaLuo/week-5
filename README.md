@@ -16,4 +16,13 @@
   ![IMAGE](https://github.com/GemaLuo/week-5/blob/main/%E8%A6%81%E6%B1%82%E4%B8%89-7.png)
  
 ***
-
+**新增follower_count**
+![IMAGE](https://github.com/GemaLuo/week-5/blob/main/%E8%A6%81%E6%B1%82%E5%9B%9B-%E6%96%B0%E5%A2%9E%E8%BF%BD%E8%B9%A4%E6%95%B8.png)
+* 要求四
+  * 取得 member 資料表中，總共有幾筆資料 ( 幾位會員 )。
+  ![IMAGE](https://github.com/GemaLuo/week-5/blob/main/%E8%A6%81%E6%B1%82%E5%9B%9B-1.png)
+  * 取得 member 資料表中，所有會員 follower_count 欄位的總和。
+  ![IMAGE](https://github.com/GemaLuo/week-5/blob/main/%E8%A6%81%E6%B1%82%E5%9B%9B-2.png)
+  * 取得 member 資料表中，所有會員 follower_count 欄位的平均數。
+  ![IMAGE](https://github.com/GemaLuo/week-5/blob/main/%E8%A6%81%E6%B1%82%E5%9B%9B-3.png)
+  
