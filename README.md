@@ -27,3 +27,9 @@
   * 3.取得 member 資料表中，所有會員 follower_count 欄位的平均數。
   ![IMAGE](https://github.com/GemaLuo/week-5/blob/main/%E8%A6%81%E6%B1%82%E5%9B%9B-3.png)
   
+***
+* 要求五
+  * 1.使⽤ SELECT 搭配 JOIN 語法，取得所有留⾔，結果須包含留⾔者會員的姓名。
+  ![IMAGE](https://github.com/GemaLuo/week-5/blob/main/%E8%A6%81%E6%B1%82%E4%BA%94-1.png)
+ 
+  
