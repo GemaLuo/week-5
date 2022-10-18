@@ -37,6 +37,12 @@
   
   * 3.使⽤ SELECT、SQL Aggregate Functions 搭配 JOIN 語法，取得 member 資料表中欄位 username 是 test 的所有留⾔平均按讚數。
   ![IMAGE](https://github.com/GemaLuo/week-5/blob/main/%E8%A6%81%E6%B1%82%E4%BA%94-3.png)
+  
+***
+* **延伸作業**
+ * 新增message
+ ![IMAGE](https://github.com/GemaLuo/week-5/blob/main/%E5%BB%B6%E4%BC%B8%E4%BD%9C%E6%A5%AD/%E6%96%B0%E5%A2%9Emessage.png)
+ 
 
  
   
