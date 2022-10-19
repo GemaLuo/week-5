@@ -43,8 +43,8 @@
   - 1.新增message
    <img src="https://github.com/GemaLuo/week-5/blob/main/%E5%BB%B6%E4%BC%B8%E4%BD%9C%E6%A5%AD/%E6%96%B0%E5%A2%9Emessage.png" />
  
-  - 2.CREATE TABLE
-   <img src="https://github.com/GemaLuo/week-5/blob/main/%E5%BB%B6%E4%BC%B8%E4%BD%9C%E6%A5%AD/CREATE%20TABLE.png" />
+  - 2.CREATE TABLE: 使用like+1記錄按讚的動作
+   <img src="https://github.com/GemaLuo/week-5/blob/main/%E5%BB%B6%E4%BC%B8%E4%BD%9C%E6%A5%AD/new%20CREATE%20TABLE.png" />
   
   - 3.INSERT INTO LIKE RECORD MSG
    <img src="https://github.com/GemaLuo/week-5/blob/main/%E5%BB%B6%E4%BC%B8%E4%BD%9C%E6%A5%AD/insert%20into%20record%20msg.png" />
