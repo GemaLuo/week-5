@@ -47,4 +47,4 @@
    <img src="https://github.com/GemaLuo/week-5/blob/main/%E5%BB%B6%E4%BC%B8%E4%BD%9C%E6%A5%AD/CREATE%20TABLE.png" />
   
   - 3.INSERT INTO LIKE RECORD MSG
-   <img src="https://github.com/GemaLuo/week-5/blob/main/%E5%BB%B6%E4%BC%B8%E4%BD%9C%E6%A5%AD/INSERT%20INTO.png" />
+   <img src="https://github.com/GemaLuo/week-5/blob/main/%E5%BB%B6%E4%BC%B8%E4%BD%9C%E6%A5%AD/insert%20into%20record%20msg.png" />
