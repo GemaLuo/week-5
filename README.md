@@ -45,7 +45,7 @@
  
    > 2.建立按讚紀錄表格
    >> 若僅將member_id設為主鍵，在msg_liked設定UNIQUE會使留言無法被其他人按讚且會員只能按一個留言的讚
-   >> 使用[複合主鍵](https://www.796t.com/content/1544850548.html)，保持紀錄的唯一性，則每位會員都能按不同留言的讚各一次(不能重複按讚)
+   >>> 使用[複合主鍵](https://www.796t.com/content/1544850548.html)，保持紀錄的唯一性，則每位會員都能按不同留言的讚各一次(不能重複按讚)
    <img src="https://github.com/GemaLuo/week-5/blob/main/%E5%BB%B6%E4%BC%B8%E4%BD%9C%E6%A5%AD/1_%E5%BB%BA%E7%AB%8B%E6%8C%89%E8%AE%9A%E7%B4%80%E9%8C%84%E8%A1%A8%E6%A0%BC.png" />
   
    > 3.插入按讚會員與被按讚留言的id
@@ -56,5 +56,5 @@
    
    > 5.使用留言msg_liked的編號(亦即member表格的id)取得按讚會員的name
    >> 使用[巢狀搜尋](https://www.gushiciku.cn/pl/gzwb/zh-tw>IN)，用like_record表格(子查詢)中的留言msg_liked編號取得member_id(等於member表格的id)(先執行子查詢=最內層)
-   >> 再利用member的id取得按讚的會員
+   >>> 再利用member的id取得按讚的會員
    <img src="https://github.com/GemaLuo/week-5/blob/main/%E5%BB%B6%E4%BC%B8%E4%BD%9C%E6%A5%AD/4_%E7%94%A8msg_liked%E5%8F%96%E5%BE%97%E6%8C%89%E8%AE%9A%E6%9C%83%E5%93%A1%E5%90%8D%E7%A8%B1.png" />
