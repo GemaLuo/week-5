@@ -42,7 +42,7 @@
 * **延伸作業**
    > 1.新增message
    <img src="https://github.com/GemaLuo/week-5/blob/main/%E5%BB%B6%E4%BC%B8%E4%BD%9C%E6%A5%AD/%E6%96%B0%E5%A2%9Emessage.png" />
-* 註:like_record的member_id=member表id，like_record的msg_liked=message的id
+* 註:like_record的member_id=member表的id，like_record的msg_liked=message表的id
    > 2.建立按讚紀錄表格
    >> 若僅將member_id設為主鍵，在msg_liked設定UNIQUE(數據不重複插入)會使留言無法被其他人按讚且會員只能按一個留言的讚
    >>> 使用[複合主鍵](https://www.796t.com/content/1544850548.html)，保持紀錄的唯一性，則每位會員都能按不同留言的讚各一次(不能重複按讚)
